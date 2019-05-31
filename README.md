@@ -12,7 +12,11 @@ Description: An adventure with several boss battles.
 
 Time to beat: 1 hour.
 
-Requirements: Mouse or touchpad with which you are extremely comfortable.
+Requirements: 
+<ul>
+  <li>Mouse or touchpad with which you are extremely comfortable<li>
+  <li>Escape (esc) button<li>
+<ul>
 
 Notes: I disabled right clicking, mouse dissapearing, and other problematic default behavior when I made this game all those years ago.  The only way I know to exit is the escape button.
 
