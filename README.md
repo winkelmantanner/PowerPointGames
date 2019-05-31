@@ -3,6 +3,9 @@ When I was 10-14 years of age I enjoyed making games in Microsoft PowerPoint.  S
 
 There are some things in these PowerPoints that I cannot create or edit in my newer version of PowerPoint running on my Mac.  But the old PowerPoints still run.
 
+Download a PowerPoint file, then play the first slide to play the game.
+<br>
+<br>
 <h3>cool game!.pptx</h3>
 
 Description: An adventure with several boss battles.
