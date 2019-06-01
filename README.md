@@ -14,6 +14,7 @@ Time to beat: 1 hour.
 
 Requirements: 
 <ul>
+  <li>Microsoft Office PowerPoint (NOT Libre Office Impress; it lacks some of the features of PowerPoint)</li>
   <li>Mouse or touchpad with which you are extremely comfortable</li>
   <li>Escape (esc) button</li>
 </ul>
